@@ -1,11 +1,11 @@
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
   
-div {
+.question {
   margin-bottom: 10px;
 }
 
-div:last-child {
+.question:last-child {
   margin-bottom: 0;
 }
